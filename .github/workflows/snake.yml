@@ -1,7 +1,7 @@
--     name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@master
-        with:
-          github_user_name: ${{ josefernandez159 }}
-          outputs: |
+ name : gere github-contribution-grid-snake.svg
+        usa : Platane/snk/svg-only@v2
+        com :
+          github_user_name : ${{ github.repository_owner }}
+          saídas : |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
