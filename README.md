@@ -1,4 +1,4 @@
-### Hi there, my name is fernandez, i'm twenty three years old. 👋
+### Hi there, my name is fernandez, i'm twenty-three years old. 👋
 
 <div  align='center'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefernandez159&layout=compact&theme=radical"/>
