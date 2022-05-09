@@ -1,7 +1,7 @@
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, my name is fernandez, i'm twenty-three years old. 
 
 <div  align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefernandez159&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefernandez159&layout=compact&theme=radical"/>
 </div>
 
 
