@@ -1,4 +1,4 @@
-### Hi there, my name is fernandez, i'm twenty-three years old. 👋
+### Hi there, my name is fernandez, i'm twenty-three years old. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <div  align='center'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefernandez159&layout=compact&theme=radical"/>
