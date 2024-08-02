@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: josefernandez159/badge-readme@main
+        uses: josefernandez159/README@main
         with:       
           CREDLY_USER: jose.fernandes@invillia.com
