@@ -15,6 +15,4 @@
   <img align="center" alt="Fernandez-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 </div>
 
-
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f42ff455-9cae-4ecf-a0b3-32e9477ca285" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
