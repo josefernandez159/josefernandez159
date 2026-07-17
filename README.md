@@ -1,7 +1,7 @@
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, my name is fernandez.
 
 <div  align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefernandez159&layout=compact"/>
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=josefernandez159)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 
